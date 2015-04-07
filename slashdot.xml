@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-04-07T05:49:15+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/07/0129253/google-rolls-out-vp9-encoding-for-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/07/024200/gcc-50-to-support-openmp-40-intel-cilk-plus-c14?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/06/2321217/stanford-develops-fast-charging-stable-aluminum-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/06/229241/how-comcast-bankrolls-organizations-that-support-twc-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/06/2148226/the-problem-with-using-end-to-end-web-crypto-as-a-cure-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://news.slashdot.org/story/15/04/07/0129253/google-rolls-out-vp9-encoding-for-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Rolls Out VP9 Encoding For YouTube</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sFU-o-GNEoU/google-rolls-out-vp9-encoding-for-youtube</link>
+<description>An anonymous reader writes: The YouTube engineering blog announced that they've begun encoding videos with Google's open VP9 codec. Their goal is to use the efficiency of VP9 to bring better quality video to people in low-bandwidth areas, and to spur uptake of 4K video in more developed areas. "[I]f your Internet connection used to only play up to 480p without buffering on YouTube, it can now play silky smooth 720p with VP9."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Rolls+Out+VP9+Encoding+For+YouTube%3A+http%3A%2F%2Fbit.ly%2F1C8J7DV"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F07%2F0129253%2Fgoogle-rolls-out-vp9-encoding-for-youtube%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/07/0129253/google-rolls-out-vp9-encoding-for-youtube?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/07/0129253/google-rolls-out-vp9-encoding-for-youtube?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213545&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/sFU-o-GNEoU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-07T04:19:00+00:00</dc:date>
+<dc:subject>youtube</dc:subject>
+<slash:department>prettier-pictures-per-megabit</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,18,7,6,3,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/07/0129253/google-rolls-out-vp9-encoding-for-youtube?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/07/024200/gcc-50-to-support-openmp-40-intel-cilk-plus-c14?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>GCC 5.0 To Support OpenMP 4.0, Intel Cilk Plus, C++14</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aytliCEa0tg/gcc-50-to-support-openmp-40-intel-cilk-plus-c14</link>
+<description>An anonymous reader writes: GCC 5 is coming up for release in the next few weeks and is presenting an extraordinary number of new features: C11 support by default, experimental C++14 support, full C++11 support in libstdc++, OpenMP 4.0 with Xeon Phi / GPU offloading, Intel Cilk Plus multi-threading, new ARM processor support, Intel AVX-512 handling, and much more. This is a big release, so those wishing to test it ahead of time can obtain the preliminary GCC 5 source code from GCC's snapshots mirror.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=GCC+5.0+To+Support+OpenMP+4.0%2C+Intel+Cilk+Plus%2C+C%2B%2B14%3A+http%3A%2F%2Fbit.ly%2F1DVLiPC"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F07%2F024200%2Fgcc-50-to-support-openmp-40-intel-cilk-plus-c14%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/07/024200/gcc-50-to-support-openmp-40-intel-cilk-plus-c14?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/07/024200/gcc-50-to-support-openmp-40-intel-cilk-plus-c14?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213629&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/aytliCEa0tg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-07T03:24:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>onward-and-upward</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,7,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/07/024200/gcc-50-to-support-openmp-40-intel-cilk-plus-c14?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/06/2321217/stanford-develops-fast-charging-stable-aluminum-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Stanford Develops Fast-Charging, Stable Aluminum Battery</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fnYimEMK0zs/stanford-develops-fast-charging-stable-aluminum-battery</link>
+<description>An anonymous reader writes: Stanford researchers have announced the creation of an aluminum-ion battery that they say will charge quicker, last longer, and be generally safer than common lithium-ion batteries. "Aluminum has long been an attractive material for batteries, mainly because of its low cost, low flammability and high-charge storage capacity. For decades, researchers have tried unsuccessfully to develop a commercially viable aluminum-ion battery. A key challenge has been finding materials capable of producing sufficient voltage after repeated cycles of charging and discharging. ... For the experimental battery, the Stanford team placed the aluminum anode and graphite cathode, along with an ionic liquid electrolyte, inside a flexible, polymer-coated pouch." The researchers' main challenges now are getting the battery to produce a higher voltage and store energy at a higher densities.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Stanford+Develops+Fast-Charging%2C+Stable+Aluminum+Battery%3A+http%3A%2F%2Fbit.ly%2F1De6YWJ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F06%2F2321217%2Fstanford-develops-fast-charging-stable-aluminum-battery%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/06/2321217/stanford-develops-fast-charging-stable-aluminum-battery?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/06/2321217/stanford-develops-fast-charging-stable-aluminum-battery?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213279&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/fnYimEMK0zs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-07T02:23:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>current-events</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,49,35,28,8,5,4</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/06/2321217/stanford-develops-fast-charging-stable-aluminum-battery?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/06/229241/how-comcast-bankrolls-organizations-that-support-twc-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How Comcast Bankrolls Organizations That Support TWC Merger</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lBgW5xPHOU8/how-comcast-bankrolls-organizations-that-support-twc-merger</link>
+<description>An anonymous reader writes: When Comcast announced it was pursuing a takeover of Time Warner Cable, many activists and internet users immediately submitted objections to the deal. Support came more slowly, but steadily, from organizations like the International Center for Law and Economics, and from politicians like Governor Phil Bryant (R-MS). Now, a NY Times report reveals that much of this support for the merger came in exchange for money from Comcast. Fortunately, even after spreading money around so liberally, Comcast is still struggling to find a coherent, believable message for regulators, and the deal is far from assured. From the article: "Letters detailing the benefits of the Comcast deal were submitted to the Federal Communications Commission by staff members from Americans for Tax Reform, the American Enterprise Institute, the Institute for Policy Innovation, Competitive Enterprise Institute, the Free State Foundation and the Center for Individual Freedom, as well as by a professor at a technology program at the University of Pennsylvania, all of which received support from Comcast or its trade association, tax documents and other disclosures reviewed by The New York Times show. A similar pattern is evident with charities like the Urban League and more than 80 other community groups that supported the media company and that also accepted collectively millions of dollars in donations from the Comcast Foundation over the last five years, documents reviewed by The Times show."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+Comcast+Bankrolls+Organizations+That+Support+TWC+Merger%3A+http%3A%2F%2Fbit.ly%2F1adFSn2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F06%2F229241%2Fhow-comcast-bankrolls-organizations-that-support-twc-merger%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/06/229241/how-comcast-bankrolls-organizations-that-support-twc-merger?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/06/229241/how-comcast-bankrolls-organizations-that-support-twc-merger?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213187&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/lBgW5xPHOU8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-07T00:33:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>money-talks-when-nobody-else-will</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,38,19,14,2,0,0</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/06/229241/how-comcast-bankrolls-organizations-that-support-twc-merger?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/06/2148226/the-problem-with-using-end-to-end-web-crypto-as-a-cure-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Problem With Using End-to-End Web Crypto as a Cure-All</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jXgk5R6Bc4E/the-problem-with-using-end-to-end-web-crypto-as-a-cure-all</link>
+<description>fsterman writes: Since the Snowden revelations, end-to-end web encryption has become trendy. There are browser add-ons that bolt a PGP client onto webmail and both Yahoo and Google are planning to support PGP directly. They attempt to prevent UI spoofing with icons similar to the site-authentication banks use to combat phishing.
+ The problem is that a decade of research shows that users habituate to these icons and come to ignore them. An attacker can pull off UI spoofing with a 90%+ success rate.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Problem+With+Using+End-to-End+Web+Crypto+as+a+Cure-All%3A+http%3A%2F%2Fbit.ly%2F1CN2MM6"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F06%2F2148226%2Fthe-problem-with-using-end-to-end-web-crypto-as-a-cure-all%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/06/2148226/the-problem-with-using-end-to-end-web-crypto-as-a-cure-all?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/06/2148226/the-problem-with-using-end-to-end-web-crypto-as-a-cure-all?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213147&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/jXgk5R6Bc4E" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-06T23:51:00+00:00</dc:date>
+<dc:subject>encryption</dc:subject>
+<slash:department>nobody-reads-the-not-so-fine-print</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,55,44,37,11,7,1</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/06/2148226/the-problem-with-using-end-to-end-web-crypto-as-a-cure-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Arrival of Man-Made Earthquakes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4QcOnwGJ7nU/the-arrival-of-man-made-earthquakes</link>
+<description>An anonymous reader writes: The New Yorker has a long investigative report on a recent geological phenomenon: man-made earthquakes. The article describes how scientists painstakingly gathered data on the quakes, and then tried to find ways to communicate the results &amp;mdash; which are quite definitive &amp;mdash; to politicians who often have financial reasons to disbelieve them. Quoting: "Until 2008, Oklahoma experienced an average of one to two earthquakes of 3.0 magnitude or greater each year. (Magnitude-3.0 earthquakes tend to be felt, while smaller earthquakes may be noticed only by scientific equipment or by people close to the epicenter.) In 2009, there were twenty. The next year, there were forty-two. In 2014, there were five hundred and eighty-five, nearly triple the rate of California. In state government, oil money is both invisible and pervasive. In 2013, Mary Fallin, the governor, combined the positions of Secretary of Energy and Secretary of the Environment. Michael Teague, whom she appointed to the position, when asked by the local NPR reporter Joe Wertz whether he believed in climate change, responded that he believed that the climate changed every day. Of the earthquakes, Teague has said that we need to learn more. Fallin's first substantive response came in 2014, when she encouraged Oklahomans to buy earthquake insurance. (However, many earthquake-insurance policies in the state exclude coverage for induced earthquakes.)"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Arrival+of+Man-Made+Earthquakes%3A+http%3A%2F%2Fbit.ly%2F1MZUtEF"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F04%2F06%2F2133247%2Fthe-arrival-of-man-made-earthquakes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7213125&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/4QcOnwGJ7nU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-04-06T23:10:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>what's-shakin'</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>92</slash:comments>
+<slash:hit_parade>92,90,67,51,23,13,6</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/04/06/2133247/the-arrival-of-man-made-earthquakes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Uber's Hiring Plans Show Outlines of Self-Driving Car Project</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DJGugtLavLw/ubers-hiring-plans-show-outlines-of-self-driving-car-project</link>
+<description>itwbennett writes The most interesting people that Uber is now hiring aren't drivers: they're engineers. The mobile ride-hailing app has listed a slew of jobs at its new Advanced Technologies Center in Pittsburgh. In particular, Uber is looking for engineers in the areas of robotics, machine learning, communications, traffic simulation, vehicle testing, and software and hardware development.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Uber's+Hiring+Plans+Show+Outlines+of+Self-Driving+Car+Project%3A+http%3A%2F%2Fbit.ly%2F1CsSv4d"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F1925216%2Fubers-hiring-plans-show-outlines-of-self-driving-car-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212825&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/DJGugtLavLw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T22:28:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>joining-the-club</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,30,25,6,4,0</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/1925216/ubers-hiring-plans-show-outlines-of-self-driving-car-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Court Mulls Revealing Secret Government Plan To Cut Cell Phone Service</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xc66Oxr1NnM/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service</link>
+<description>An anonymous reader writes with the latest in the ongoing legal battle over revealing details of Standing Operating Procedure 303, the government's plan to cut mobile phone service during an emergency. "A federal appeals court is asking the Obama administration to explain why the government should be allowed to keep secret its plan to shutter mobile phone service during 'critical emergencies.' The Department of Homeland Security came up with the plan&amp;mdash;known as Standing Operating Procedure 303&amp;mdash;after cellular phones were used to detonate explosives targeting a London public transportation system. SOP 303 is a powerful tool in the digital age, and it spells out a 'unified voluntary process for the orderly shut-down and restoration of wireless services during critical emergencies such as the threat of radio-activated improvised explosive devices.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Court+Mulls+Revealing+Secret+Government+Plan+To+Cut+Cell+Phone+Service%3A+http%3A%2F%2Fbit.ly%2F1DUhOSc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F06%2F1935212%2Fcourt-mulls-revealing-secret-government-plan-to-cut-cell-phone-service%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212857&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/xc66Oxr1NnM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T21:46:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>I-don't-want-to-talk-about-it</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>133</slash:comments>
+<slash:hit_parade>133,132,96,76,19,9,6</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/06/1935212/court-mulls-revealing-secret-government-plan-to-cut-cell-phone-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Build Your Own Satellite For Less Than $30K</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ax9SvR680i0/build-your-own-satellite-for-less-than-30k</link>
+<description>schwit1 writes An industry of new cubesat builders can now build satellites for anyone for any reason for very little money. From the article: "The miniaturization of technology allows people to do more with less hardware, said Chad Anderson, the managing director of Space Angels Network, an investment house specializing in the space industry. That industry, he said, was worth $300bn (&amp;pound;200bn) last year. Constellations of smaller satellites, like those suggested as tracking devices for planes over oceans, are now a possibility. 'The launch costs are coming down and people leveraging today's technology are able to do more with less and launch less mass to orbit. The price point has come down to where start-ups and entrepreneurs can really make an impact on the scene for the first time,' he said." When the first tiny satellite launch companies arrive, expect this industry to blossom at an astonishing rate.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Build+Your+Own+Satellite+For+Less+Than+%2430K%3A+http%3A%2F%2Fbit.ly%2F1yPMbDB"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnews.slashdot.org%2Fstory%2F15%2F04%2F06%2F2011250%2Fbuild-your-own-satellite-for-less-than-30k%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212963&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ax9SvR680i0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T21:03:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>on-the-cheap</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,46,33,25,2,1,1</slash:hit_parade>
+<feedburner:origLink>http://news.slashdot.org/story/15/04/06/2011250/build-your-own-satellite-for-less-than-30k?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Thousands Visit Trinity Test Site For 70th Anniversary of First Atomic Blast</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/B2VHlzZTQvA/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast</link>
+<description>HughPickens.com writes The NYT reports that thousands of visitors converged Saturday on the Trinity Test Site in New Mexico where the first nuclear bomb was detonated nearly 70 years ago. Many posed for pictures near an obelisk marking the exact location where the bomb went off and were also able to see a steel shell that was created as a backup plan to keep plutonium from spreading during the explosion. "It brought a quick end to World War II, and it ushered in the atomic age," Erin Dorrance said. "So out here in the middle of nowhere New Mexico changed the world 70 years ago." Pete Rosada, a Marine Corps veteran, drove with another military veteran from San Diego to make the tour. Rosada said he previously visited Hiroshima and Nagasaki, the Japanese targets of atomic bombs during World War II after the test at the Trinity Site. "This completes the loop," said Rosado. 
+
+Tourists who joined a vehicle caravan out to the site at a school in Tularosa were greeted by demonstrators from the Tularosa Basin Downwinders who came to protest the 70th anniversary tour. The Downwinders is a grass-roots group that has set out to bring public awareness about the negative impacts of the detonation of the bomb. Henry Herrera was 11 years old when he got up to help his father with the car on that fateful July morning in 1945 and says the dust from the blast scattered all over Tularosa, remembering how his mother had to wash clothes twice that day due to the fallout dusting the family's clothes line. "I stop to think I'm one lucky, fortunate guy because I'm here and so many are dead," says Herrera. "Gobs of people from around here died and nobody knew what they died of, they just went to bed and never woke up." Albuquerque resident Gene Glasgow, 69, visited the Trinity Site for the first time with relatives from Arizona. Born and raised in New Mexico, he said he'd grown curious through talking to people who witnessed the explosion, including one man who was laying trap line in the mountains at the time. "He thought the end of the world had come."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Thousands+Visit+Trinity+Test+Site+For+70th+Anniversary+of+First+Atomic+Blast%3A+http%3A%2F%2Fbit.ly%2F1y9iMtd"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F1921227%2Fthousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212813&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/B2VHlzZTQvA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T20:19:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>big-boom-and-fun</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>124</slash:comments>
+<slash:hit_parade>124,122,79,69,11,5,2</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/1921227/thousands-visit-trinity-test-site-for-70th-anniversary-of-first-atomic-blast?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Judge Allows Divorce Papers To Be Served Via Facebook</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/J8scJp5wsPw/judge-allows-divorce-papers-to-be-served-via-facebook</link>
+<description>An anonymous reader writes Want to divorce your husband or wife but can't give them the papers in person? Just use Facebook. No, apparently this isn't a late April Fools' joke. The New York Daily News reports Manhattan Supreme Court Justice Matthew Cooper has allowed 26-year-old Ellanora Baidoo to serve her husband Victor Sena Blood-Dzraku divorce papers via a Facebook message. In fact, Baidoo won't even be the one sending the message. Her lawyer has been granted permission to message Blood-Dzraku using her account. "This transmittal shall be repeated by plaintiff's attorney to defendant once a week for three consecutive weeks or until acknowledged," the ruling states.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Judge+Allows+Divorce+Papers+To+Be+Served+Via+Facebook%3A+http%3A%2F%2Fbit.ly%2F1FgBhsQ"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F04%2F06%2F1923224%2Fjudge-allows-divorce-papers-to-be-served-via-facebook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212817&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/J8scJp5wsPw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T20:00:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>I-unfriend-you</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,81,56,53,13,8,4</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/04/06/1923224/judge-allows-divorce-papers-to-be-served-via-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>LG Accidentally Leaks Apple iMac 8K Is Coming Later This Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/a6l-36IPUlQ/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year</link>
+<description>An anonymous reader writes LG accidentally revealed in blog post that Apple is planning to release a 8K iMac later this year. This news comes as a surprise as the leak came from a different company rather than Apple. LG is one of Apple's biggest display partners and has already demonstrated 8K monitors at CES in Las Vegas. They note that the panel boasts 16 times the number of pixels as a standard Full HD screen.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=LG+Accidentally+Leaks+Apple+iMac+8K+Is+Coming+Later+This+Year%3A+http%3A%2F%2Fbit.ly%2F1GZeo1x"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F04%2F06%2F1735244%2Flg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212373&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/a6l-36IPUlQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T19:36:00+00:00</dc:date>
+<dc:subject>displays</dc:subject>
+<slash:department>going-big</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>210</slash:comments>
+<slash:hit_parade>210,210,129,109,25,12,8</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/04/06/1735244/lg-accidentally-leaks-apple-imac-8k-is-coming-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The New Struggles Facing Open Source</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ufggt8EbVqM/the-new-struggles-facing-open-source</link>
+<description>An anonymous reader writes in with this story about the open source movement's contentious beginnings and the points of trouble it faces today. "The early days of open source were fraught with religious animosities we feared would tear apart the movement: free software fundamentalists haggling with open source pragmatists over how many Apache licenses would fit on the head of a pin. But once commercial interests moved in to plunder for profit, the challenges faced by open source pivoted toward issues of control. While those fractious battles are largely over, giving way to an era of relative peace, this seeming tranquility may prove more dangerous to the open source movement than squabbling ever did. Indeed, underneath this superficial calm, plenty of tensions simmer. Some are the legacy of the past decade of open source warfare. Others, however, break new ground and arguably threaten open source far more than the GPL-vs.-Apache battle ever did."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+New+Struggles+Facing+Open+Source%3A+http%3A%2F%2Fbit.ly%2F1FgrBi2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fit.slashdot.org%2Fstory%2F15%2F04%2F06%2F1713216%2Fthe-new-struggles-facing-open-source%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212319&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ufggt8EbVqM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T18:51:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>it's-not-easy</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,114,78,66,19,9,3</slash:hit_parade>
+<feedburner:origLink>http://it.slashdot.org/story/15/04/06/1713216/the-new-struggles-facing-open-source?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hyundai To Release "Semi-Autonomous" Car This Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/r6U3vuUuchM/hyundai-to-release-semi-autonomous-car-this-year</link>
+<description>jfruh writes While self-driving cars from Google and others remain in the prototype stage, Korean carmaker Hyundai intends to release a premium sedan called the Equus this year that includes self-driving features. While a car's ability to navigate complex urban environments on its own is still a ways off, the Equus will allow the driver to take their hands off the wheel and feet off the brakes during highway driving.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hyundai+To+Release+%22Semi-Autonomous%22+Car+This+Year%3A+http%3A%2F%2Fbit.ly%2F1yPs602"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F04%2F06%2F174246%2Fhyundai-to-release-semi-autonomous-car-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212279&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/r6U3vuUuchM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T18:08:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>joinging-the-club</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>99</slash:comments>
+<slash:hit_parade>99,99,74,64,19,9,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/04/06/174246/hyundai-to-release-semi-autonomous-car-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>10 Years of Git: An Interview With Linus Torvalds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NRFoV3cTc9Y/10-years-of-git-an-interview-with-linus-torvalds</link>
+<description>LibbyMC writes Git will celebrate its 10-year anniversary tomorrow. To celebrate this milestone, Linus shares the behind-the-scenes story of Git and tells us what he thinks of the project and its impact on software development. From the article: "Ten years ago this week, the Linux kernel community faced a daunting challenge: They could no longer use their revision control system BitKeeper and no other Software Configuration Management (SCMs) met their needs for a distributed system. Linus Torvalds, the creator of Linux, took the challenge into his own hands and disappeared over the weekend to emerge the following week with Git. Today Git is used for thousands of projects and has ushered in a new level of social coding among programmers."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=10+Years+of+Git%3A+An+Interview+With+Linus+Torvalds%3A+http%3A%2F%2Fbit.ly%2F1PcBrtk"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Flinux.slashdot.org%2Fstory%2F15%2F04%2F06%2F1559207%2F10-years-of-git-an-interview-with-linus-torvalds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7212073&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/NRFoV3cTc9Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-04-06T17:24:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>straight-from-the-horses-mouth</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>166</slash:comments>
+<slash:hit_parade>166,161,101,84,16,13,5</slash:hit_parade>
+<feedburner:origLink>http://linux.slashdot.org/story/15/04/06/1559207/10-years-of-git-an-interview-with-linus-torvalds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
