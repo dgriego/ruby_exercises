@@ -89,7 +89,7 @@ def generate_uuid
   sections.each do |section|
     uuid << chars.sample(section).join('')
   end
-  
+
   puts uuid.join('-')
 end
 
@@ -148,6 +148,7 @@ def dot_separated_ip_address?(input_string)
     end
     return true
   else
+    puts "Invalid IP address"
     return false
   end
 end
