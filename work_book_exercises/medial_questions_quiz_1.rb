@@ -1,4 +1,4 @@
-# Quiz 3 ( Intermediate ) -- exercises -- 
+# Quiz 1 ( Intermediate ) -- exercises -- 
 
 # 1)
 # repeat each line with added padding as it increments
